@@ -1,6 +1,5 @@
 ## 📌 Description for GitHub `README.md`
 
-````markdown
 # 📊 Real-Time Market Reaction Dashboard
 
 A dynamic, interactive market dashboard that fetches real-time stock or cryptocurrency data and displays it using candlestick and volume charts — enriched with live sentiment analysis based on the latest news.
