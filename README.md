@@ -50,7 +50,7 @@ Unlike basic dashboards, this project:
    ```bash
    git clone https://github.com/YOUR_USERNAME/market-dashboard.git
    cd market-dashboard
-````
+    ```
 
 2. Install requirements:
 
